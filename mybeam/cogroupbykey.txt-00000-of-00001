@@ -1,0 +1,4 @@
+('amy', {'phones': ['111-222-3333', '333-444-5555'], 'emails': ['amy@example.com']})
+('james', {'phones': ['222-333-4444'], 'emails': []})
+('julia', {'phones': [], 'emails': ['julia@example.com']})
+('carl', {'phones': ['444-555-6666'], 'emails': ['carl@example.com', 'carl@email.com']})
